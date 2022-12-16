@@ -22,4 +22,4 @@ gers
 perunaa
 kaljaa
 nii joo
-ei tää näin menny
+local
