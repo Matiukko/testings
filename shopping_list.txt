@@ -1,4 +1,4 @@
-hetkinen
+github
 ensimmäinen
 moi
 nyt
@@ -22,4 +22,8 @@ gers
 perunaa
 kaljaa
 nii joo
+<<<<<<< HEAD
 local
+=======
+ei tää näin menny
+>>>>>>> f3fdc2cc08537736c585ad8ff33b7b8a4da8c071
