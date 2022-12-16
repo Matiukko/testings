@@ -1,4 +1,4 @@
-hetkinen
+github
 ensimmäinen
 moi
 nyt
